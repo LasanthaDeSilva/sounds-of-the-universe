@@ -1,0 +1,5 @@
+streamlit>=1.56
+numpy
+scipy
+pydantic>=2
+google-genai
